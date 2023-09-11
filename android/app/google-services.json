@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953242638551",
+    "project_id": "todoflutter-e055e",
+    "storage_bucket": "todoflutter-e055e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953242638551:android:6b41a362da26afdff4f892",
+        "android_client_info": {
+          "package_name": "com.example.tutorial_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953242638551-e7c417g7mda8n3t8jo49be45v914237t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfhtaLIde7t9IkTrML1jANoPS-MPTmY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953242638551-e7c417g7mda8n3t8jo49be45v914237t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
